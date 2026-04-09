@@ -1,0 +1,1 @@
+print('lô thế giới')
